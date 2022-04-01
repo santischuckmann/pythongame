@@ -1,0 +1,15 @@
+from collections import namedtuple
+
+TAMANNO_LETRA = 25
+FPS_inicial = 3
+TIEMPO_MAX = 61
+
+ANCHO = 800
+ALTO = 600
+COLOR_LETRAS = (250,250,250)
+COLOR_TEXTO = (20,20,20)
+COLOR_TIEMPO_FINAL = (200,20,10)
+COLOR_LINEAS = (20,20,20)
+
+
+
